@@ -20,3 +20,6 @@ Else if the directory doesn't exist, a feedback message is given to the user to 
 
 
 # Exercise 3
+
+We created a function that randomly generates a password with a specific length determined by user input using the /dev/urandom.
+This password is then displayed back to the user.
