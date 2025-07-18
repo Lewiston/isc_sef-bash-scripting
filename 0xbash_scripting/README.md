@@ -23,3 +23,21 @@ Else if the directory doesn't exist, a feedback message is given to the user to 
 
 We created a function that randomly generates a password with a specific length determined by user input using the /dev/urandom.
 This password is then displayed back to the user.
+
+
+# Exercise 4
+
+
+
+# Exercise 5
+
+- Initially, we define our array of user names and user passwords
+- We created a function which checked user names and it's correspond password within the same index position of their individual arrays.
+- If they match, authentication was a success and the program ends.
+- If the do not, authentication fails and you get to the begining of the program
+
+
+# Exercise 6
+
+- We created a function to display the information needed to get started and another to make a copy
+- Once we get all that we need, we use the "cp -r" command to make a copy of the intended directory
